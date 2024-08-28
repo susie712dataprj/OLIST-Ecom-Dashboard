@@ -7,9 +7,9 @@ Google Sheets: This is just for connecting data through Power Query.
 * We used a translation function to translate the customer’s review.
 * Add brazil_states table to get more external data.
 * Add some sub tables like RFM_segments in PBI.
-Please visit the [[sheet](https://docs.google.com/spreadsheets/d/1uwOaJoMisEK2uD89ya0E4h-EXW6V5mxI8ap5k1LNtdg/edit?usp=sharing)](url) here
+Please visit the [[sheet](https://docs.google.com/spreadsheets/d/1uwOaJoMisEK2uD89ya0E4h-EXW6V5mxI8ap5k1LNtdg/edit?usp=sharing)] here
 
-● Power BI: Our main working file, all the data cleaning process to visualization is done in Power BI.
+Power BI: Main working file, all the data cleaning process to visualization is done in Power BI.
 ## Data Schema
 ![image](https://github.com/user-attachments/assets/7a9cd7b7-0ad1-443d-8cd0-be09957356a5)
 All the relationship are then built in Data
