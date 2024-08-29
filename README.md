@@ -17,6 +17,7 @@ All the relationship are then built in Data Model in PBI
 Visit [[Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)] for a detailed description of variables.
 
 # Visualization
+Download PBI file [[here](https://github.com/susie712dataprj/OLIST-Ecom-Dashboard/blob/main/OLIST%20Ecom%20Dashboard.pbix)] for better interactive dashboard
 ## Overall Performance
 <img width="1418" alt="Ảnh màn hình 2024-08-28 lúc 16 24 49" src="https://github.com/user-attachments/assets/0e299c58-526e-42a6-8b32-f4923c6c7d29">
 
