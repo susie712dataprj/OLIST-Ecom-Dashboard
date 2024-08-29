@@ -44,6 +44,7 @@ increases, the Revenue also increases (vice versa)
 
 ## Customer Behaviour
 <img width="1420" alt="Ảnh màn hình 2024-08-29 lúc 08 50 14" src="https://github.com/user-attachments/assets/e96684db-1561-409a-a059-21a0555d8d67">
+
 * RFM Segmentation:
   * Promising: The largest segment, making up 35.88% of customers. These are recent purchasers who haven't spent much, indicating potential for future engagement.
   * Cannot Lose Them: This critical segment represents 19.99% of customers who are valuable but may be at risk of leaving. Strategies should focus on retaining them.
@@ -57,4 +58,9 @@ increases, the Revenue also increases (vice versa)
 ## Customer Review Analysis 
 <img width="1410" alt="Ảnh màn hình 2024-08-29 lúc 09 01 58" src="https://github.com/user-attachments/assets/16ca8cb5-d2ce-43ed-979d-b971581f0e0f">
 
-*
+* Customer satisfaction is generally high. The average review score is 4.00 out of 5, and the majority of reviews are positive. The highest rating category is Books.
+* Do Delivery affect Rating Score?
+  * If orders were delivered LATE => high chances getting lower review score (10% distribution decrease on score 5 compare to On-time)
+  * If the orders were LATE delivered, OLIST's need to ensure that it had to be no later than 10 days.
+  * The orders were delivered after 10 days of limit shipping days => HIGHER chance to receive below 3 rating
+
